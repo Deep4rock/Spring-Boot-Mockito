@@ -8,5 +8,7 @@ public class SpringBootMockitoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootMockitoApplication.class, args);
+
+    // changes for HSL-122
 	}
 }
