@@ -1,4 +1,4 @@
-//playing with stash
+//HIS-200 related changes here merge conflict
 
 package com.javatechie.spring.mockito.api;
 
@@ -11,6 +11,5 @@ public class SpringBootMockitoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootMockitoApplication.class, args);
 
-    // changes for HSL-122
 	}
 }
